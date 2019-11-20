@@ -1,3 +1,3 @@
 # hello-word
-hello-word new bee
+hello-word second branch
 changes in new branch
